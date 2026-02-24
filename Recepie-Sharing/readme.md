@@ -151,7 +151,7 @@ npm run dev
 ---
 
 ## 📸 video
-https://drive.google.com/file/d/1y3ftBbE0UyeoL-UNBfQIa-O_oqWQsrZ9/view?usp=drive_link
+https://drive.google.com/file/d/1y3ftBbE0UyeoL-UNBfQIa-O_oqWQsrZ9/view?usp=sharing
 
 ## 📜 License
 
