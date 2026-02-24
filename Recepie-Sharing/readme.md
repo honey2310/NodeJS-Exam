@@ -132,12 +132,10 @@ npm run dev
 
 ## 🎯 Future Improvements
 
-- ❤️ Like System
 - 🔎 Search & Filter
 - 📂 Categories
-- ☁️ Image Upload (Cloudinary)
+- ☁️ Image Upload 
 - 📱 Responsive UI Improvements
-- 🌙 Dark Mode
 
 ---
 
@@ -146,16 +144,14 @@ npm run dev
 - Full CRUD operations
 - JWT Authentication
 - Protected backend routes
-- Role-based access (Owner protection)
 - React state management
 - REST API design
 - Clean UI structuring
 
 ---
 
-## 📸 Screenshots
-
-(Add screenshots of your app here)
+## 📸 video
+https://drive.google.com/file/d/1y3ftBbE0UyeoL-UNBfQIa-O_oqWQsrZ9/view?usp=drive_link
 
 ## 📜 License
 
